@@ -1,5 +1,6 @@
-package com.learning.social.learningsocial;
+package com.learning.social.learningsocial.repository;
 
+import com.learning.social.learningsocial.model.Chapter;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
